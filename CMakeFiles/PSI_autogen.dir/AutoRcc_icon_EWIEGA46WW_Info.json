@@ -1,0 +1,36 @@
+{
+	"BUILD_DIR" : "/Users/kist/Downloads/PSI/PSI_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/kist/Downloads/PSI",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/kist/Downloads/PSI",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/kist/Downloads/PSI",
+	"CMAKE_SOURCE_DIR" : "/Users/kist/Downloads/PSI",
+	"INCLUDE_DIR" : "/Users/kist/Downloads/PSI/PSI_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/kist/Downloads/PSI/icon/file_2.svg",
+		"/Users/kist/Downloads/PSI/icon/palette-svgrepo-com.svg",
+		"/Users/kist/Downloads/PSI/icon/Map.png",
+		"/Users/kist/Downloads/PSI/icon/Bluetooth.png",
+		"/Users/kist/Downloads/PSI/icon/Parking.png",
+		"/Users/kist/Downloads/PSI/icon/Calander.png",
+		"/Users/kist/Downloads/PSI/icon/3d.png",
+		"/Users/kist/Downloads/PSI/icon/Message.png",
+		"/Users/kist/Downloads/PSI/icon/Food.png",
+		"/Users/kist/Downloads/PSI/icon/Phone.png",
+		"/Users/kist/Downloads/PSI/icon/bottom.png",
+		"/Users/kist/Downloads/PSI/icon/BG.png",
+		"/Users/kist/Downloads/PSI/icon/Car.png",
+		"/Users/kist/Downloads/PSI/icon/top.png",
+		"/Users/kist/Downloads/PSI/icon/Radio.png"
+	],
+	"LOCK_FILE" : "/Users/kist/Downloads/PSI/CMakeFiles/PSI_autogen.dir/AutoRcc_icon_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "icon" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_icon.cpp",
+	"RCC_EXECUTABLE" : "/opt/homebrew/opt/qt@5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/kist/Downloads/PSI/CMakeFiles/PSI_autogen.dir/AutoRcc_icon_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/kist/Downloads/PSI/icon.qrc",
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>icon/BG.png</file>
+        <file>icon/Bluetooth.png</file>
+        <file>icon/Calander.png</file>
+        <file>icon/Car.png</file>
+        <file>icon/Food.png</file>
+        <file>icon/Map.png</file>
+        <file>icon/Message.png</file>
+        <file>icon/Parking.png</file>
+        <file>icon/Phone.png</file>
+        <file>icon/Radio.png</file>
+        <file>icon/3d.png</file>
+        <file>icon/bottom.png</file>
+        <file>icon/top.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>icon/file_2.svg</file>
+        <file>icon/palette-svgrepo-com.svg</file>
+    </qresource>
+</RCC>

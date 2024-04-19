@@ -1,0 +1,4 @@
+/Users/kist/Downloads/PSI/CMakeFiles/PSI.dir
+/Users/kist/Downloads/PSI/CMakeFiles/edit_cache.dir
+/Users/kist/Downloads/PSI/CMakeFiles/rebuild_cache.dir
+/Users/kist/Downloads/PSI/CMakeFiles/PSI_autogen.dir

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/stl">
+        <file>STL/polestar 2 CAD.stl</file>
+    </qresource>
+</RCC>
